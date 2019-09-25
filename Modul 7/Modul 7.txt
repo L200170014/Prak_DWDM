@@ -1,0 +1,12 @@
+Modul 7
+
+4. jumlah atribut bertipe binomial dan polynomial
+	- binomial = 4 yaitu Gender, Asal_Sekolah, Asisten dan Lama_Studi
+	- polinomial = 1 yaitu Jurusan_SMA
+5. jumlah atribut bertipe real
+	atribut bertipe real ada 1 yaitu Rerata_SKS
+6. pada Rerata_SKS
+	nilai max = 23
+	nilai min = 16
+	Mean = 18.95
+	stdDev = 1.669
